@@ -1,6 +1,6 @@
-🌟 Personal Portfolio Website 
+## 🌟 Personal Portfolio Website 
 
-Welcome to my official portfolio website! This project showcases my skills, projects, and creativity as a **Web Developer**. Built with **React**, this portfolio highlights my technical expertise and serves as a platform to connect and collaborate on exciting opportunities.
+## Welcome to my official portfolio website! This project showcases my skills, projects, and creativity as a **Web Developer**. Built with **React**, this portfolio highlights my technical expertise and serves as a platform to connect and collaborate on exciting opportunities.
 
 ---
 
