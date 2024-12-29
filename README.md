@@ -1,4 +1,4 @@
-![Screenshot 2024-12-29 193309](https://github.com/user-attachments/assets/759b6426-0e32-4aaf-930e-06e4ecc1b3b3)# 🌟 Personal Portfolio Website 
+🌟 Personal Portfolio Website 
 
 Welcome to my official portfolio website! This project showcases my skills, projects, and creativity as a **Web Developer**. Built with **React**, this portfolio highlights my technical expertise and serves as a platform to connect and collaborate on exciting opportunities.
 
