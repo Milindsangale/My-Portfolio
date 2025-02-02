@@ -12,7 +12,7 @@
 ## 🚀 Portfolio Preview 
 
 ![Screenshot 2024-12-29 193309](https://github.com/user-attachments/assets/fa83b192-0444-43f1-a70b-15136e2e98c3)
-![1 (4)](https://github.com/user-attachments/assets/b7927141-c375-4e97-9c11-e6f59dd20f1b)
+![image](https://github.com/user-attachments/assets/f79aba88-955f-46dd-806f-c499b4997bf9)
 ![1 (3)](https://github.com/user-attachments/assets/b0ceedc8-c68d-40cb-9f44-b92af6094a6b)
 ![1 (2)](https://github.com/user-attachments/assets/767d1434-021e-4684-8c22-767a0de606cd)
 ![1 (1)](https://github.com/user-attachments/assets/28377d82-d45f-4bf6-aa3c-30804aa7de63)
